@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A vibrant splash of various fruits and juice",
+      "imageUrl": "https://images.unsplash.com/photo-1573067485648-4cb2618b5e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcnVpdCUyMHNwbGFzaHxlbnwwfHx8fDE3NjIyNTgyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit splash"
+    },
+    {
+      "id": "orange-juice",
+      "description": "A glass of fresh orange juice with oranges on the side",
+      "imageUrl": "https://images.unsplash.com/photo-1650460069032-3c410224fe55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxvcmFuZ2UlMjBqdWljZXxlbnwwfHx8fDE3NjIyNDc0NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "orange juice"
+    },
+    {
+      "id": "green-juice",
+      "description": "A glass of vibrant green juice with leafy greens and apples",
+      "imageUrl": "https://images.unsplash.com/photo-1611497426695-412abe2f287b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGp1aWNlfGVufDB8fHx8MTc2MjE5OTA2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green juice"
+    },
+    {
+      "id": "berry-juice",
+      "description": "A glass of deep red berry smoothie with mixed berries around it",
+      "imageUrl": "https://images.unsplash.com/photo-1508869901315-49c557f3969d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxiZXJyeSUyMHNtb290aGllfGVufDB8fHx8MTc2MjIyMjYyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "berry smoothie"
+    },
+    {
+      "id": "tropical-juice",
+      "description": "A glass of yellow tropical juice with pineapple and mango slices",
+      "imageUrl": "https://images.unsplash.com/photo-1665582513044-376da77ebec0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0cm9waWNhbCUyMGp1aWNlfGVufDB8fHx8MTc2MjI1ODI3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tropical juice"
+    }
+  ]
 }
